@@ -39,10 +39,12 @@ Key options:
 - `event-handler`: Wrappers for RISC OS events.
 - `error-base` (CMunge): Base error number for the module.
 - `error-identifiers` (CMunge): Automatically generates error definitions.
-- `vector-traps` (CMunge): Advanced vector chaining handlers.
+- `vector-traps` (CMunge): Advanced vector chaining handlers — see [references/vector-traps.md](references/vector-traps.md).
 - `library-initialisation-code` / `library-enter-code`: Override C library entry symbols.
 
 
 ## References
 
 For more information on the CMHG file format, see [references/cmhg-syntax.md](references/cmhg-syntax.md).
+
+For detailed information on `vector-traps` including a worked example, see [references/vector-traps.md](references/vector-traps.md).

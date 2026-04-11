@@ -37,6 +37,7 @@ The following skills are provided:
 * `using-stronghelp`: Helps with the management of StrongHelp files.
 * `using-cmhg`: Helps with the creation of CMHG files..
 * `writing-cmodules`: Helps with the development, debugging and testing of modules in C.
+* `writing-pymodules`: Helps with the development, debugging and testing of modules in Pyromaniac PyModules, particularly porting to and from C.
 * `writing-prminxml`: Helps with creating documentation using PRM-in-XML.
 * `riscos-re`: Helps with RISC OS reverse engineering.
 * `riscos-commands`: Helps with using RISC OS commands.

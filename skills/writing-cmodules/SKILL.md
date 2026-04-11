@@ -575,3 +575,4 @@ service-call-handler: Mod_Service Service_ModeChange
 - [CMHG Documentation](https://www.riscos.info/modules/cmhg.htm)
 - [PRM 1-26 - SWI Chunk Allocation](https://www.riscos.info/modules/)
 
+- Manager modules may need to announce that they are starting up and shutting down. Usually services are issued for these events. The module announcements pattern can be found here [references/module-announcements.md](references/module-announcements.md).
