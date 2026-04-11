@@ -1,4 +1,4 @@
-# Agent skils for RISC OS
+# Agent skills for RISC OS
 
 When developing for RISC OS it is useful to give the AI agents sufficient
 information to be able to drive the system. This repository contains an
